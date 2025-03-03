@@ -26,6 +26,7 @@ public class SqlReader : MonoBehaviour
             }
 
             connection.Close();
+
         }
     }
     public void ReadDB()
